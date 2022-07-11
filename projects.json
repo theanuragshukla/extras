@@ -1,4 +1,4 @@
-{
+[{
                 id:"1",
                 title: "The Movie DataBase",
                 desc: "This is a movie database designed and developed using reactJS in its core. This App uses TMDB API to fetch and display the data.",
@@ -61,3 +61,4 @@
                                         url:"https://livepeer.herokuapp.com",
                                         github:"https://github.com/theanuragshukla/TheBizzzaire"
                                 }
+]
