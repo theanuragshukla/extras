@@ -111,7 +111,7 @@
 	},
 	{
 		"id":"9",
-		"title":"ML Algirithms Blog + Quizzes",
+		"title":"ML Algorithms Blog + Quizzes",
 		"desc":"A webPage to showcase some basic and most used Machine Learning Algorithms. This website also provides practice problems for mentioned algoriths. Solution Submitted can be examined by the teachers through admin page.",
 		"tools":["NodeJS","PostgreSQL","JWT","BCryptJS"],
 		"img":"https://source.unsplash.com/random/?machine+learning",
