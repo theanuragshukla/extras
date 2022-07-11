@@ -105,8 +105,8 @@
 		"title":"VoiceChat webApp",
 		"desc":"WebApp which provide realtime VoiceChat capability to users, along with other features like Texting, custom rooms, etc.",
 		"tools":["NodeJS","Socket.io"],
-		"img":"https://source.unsplash.com/random/?microphone",
-		"url":"",
+		"img":"https://source.unsplash.com/random/?voice+chat",
+		"url":"https://socketvoice.herokuapp.com",
 		"github":"https://github.com/theanuragshukla/VoiceChat"
 	},
 	{
@@ -114,8 +114,8 @@
 		"title":"ML Algirithms Blog + Quizzes",
 		"desc":"A webPage to showcase some basic and most used Machine Learning Algorithms. This website also provides practice problems for mentioned algoriths. Solution Submitted can be examined by the teachers through admin page.",
 		"tools":["NodeJS","PostgreSQL","JWT","BCryptJS"],
-		"img":"https://source.unsplash.com/random/?machine-learning",
-		"url":"",
+		"img":"https://source.unsplash.com/random/?machine+learning",
+		"url":"https://anytimeai.herokuapp.com",
 		"github":"https://github.com/theanuragshukla/ml-algos"
 	},
 	{
@@ -124,15 +124,15 @@
 		"desc":"A website which can be very useful in Emergency Situations. It can be used to send Live-Location, Emergency messages, SOS signals, etc directly to other Users of the website via Email, Telegram Group and Browser notification. In any case of distress, This website can be used to rescue others. ",
 		"tools":["NodeJS","Socket.io","Telegraf","Nodemailer","BCryptJS","JWT","PostgreSQL"],
 		"img":"https://source.unsplash.com/random/?sos",
-		"url":"",
-		"github":"https://github.com/theanuragshukla/Emergency"
+		"url":"https://gngsos.herokuapp.com/",
+		"github":"https://github.com/theanuragshukla/Emergency+panic"
 	},
 	{
 		"id":"11",
 		"title":"Terminal Chat",
 		"desc":"This is a Node Module, supposed to be installed globally. It provides Chatting capabilities in the CLI itself. It can be used to Create and join Chatrooms from Terminal Itself without installing any other proprietery softwares.",
 		"tools":["NodeJS","Chalk","Socket.io","Socket.io-client"],
-		"img":"https://source.unsplash.com/random/?hacker",
+		"img":"https://source.unsplash.com/random/?hacker+chat",
 		"url":"",
 		"github":"https://github.com/theanuragshukla/repl.chat"
 	}
