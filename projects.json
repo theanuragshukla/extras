@@ -125,14 +125,14 @@
 		"tools":["NodeJS","Socket.io","Telegraf","Nodemailer","BCryptJS","JWT","PostgreSQL"],
 		"img":"https://source.unsplash.com/random/?sos",
 		"url":"",
-		"github":"https://github.com/theanuragshukla/sos"
+		"github":"https://github.com/theanuragshukla/Emergency"
 	},
 	{
 		"id":"11",
 		"title":"Terminal Chat",
-		"desc":"This is a Node Module, supposed to be installed globally. It provides Chatting capabilities in the CLI itself. It can be used to Create and join Chatrooms from Terminal Itsekf without installing any other proprietery softwares.",
+		"desc":"This is a Node Module, supposed to be installed globally. It provides Chatting capabilities in the CLI itself. It can be used to Create and join Chatrooms from Terminal Itself without installing any other proprietery softwares.",
 		"tools":["NodeJS","Chalk","Socket.io","Socket.io-client"],
-		"img":"https://source.unsplash.com/random/?terminal",
+		"img":"https://source.unsplash.com/random/?console",
 		"url":"",
 		"github":"https://github.com/theanuragshukla/repl.chat"
 	}
