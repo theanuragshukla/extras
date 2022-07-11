@@ -1,64 +1,103 @@
-[{
-                id:"1",
-                title: "The Movie DataBase",
-                desc: "This is a movie database designed and developed using reactJS in its core. This App uses TMDB API to fetch and display the data.",
-                tools: ["react","react-router","styled-component"],
-                img: "https://filmboard.mtu.edu/static/bucket/923aeb4a2b10f3e3cd793b3bde595df83c818cd5a4ea5d71486438f4b063c63ffa48fd6bc166ede140cd3d1f0a5e5c5db7388b63d1af96c9c69ebdce2c833acf.png",
-                url: "https://theanuragshukla.github.io/tmdb",
-                github: "https://github.com/theanuragshukla/tmdb"
-            },
-            {
-                id:"2",
-                title: "Music Player",
-                desc: "A music player which is also a music library. It fetches the songs from GDrive using some cool GS tricks. Its my first ever project where I interacted with a server/DataBase. ",
-                tools: ["HTML","CSS","JavaScript","Jquery","GoogleAppsScript"],
-                img: "https://source.unsplash.com/random/?music",
-                url: "https://themusicplayer.herokuapp.com/",
-                github: "https://github.com/theanuragshukla/music"
-            },
-            {
-                id:"3",
-                title: "Tic-Tac-Toe",
-                desc: "A simple Tic-Tac-Toe tac toe game, where opponent bot plays like a 2-years old",
-                tools: ["HTML","CSS","JavaScript"],
-                img:"https://images.unsplash.com/photo-1602632003094-0494b73b7c4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-                url: "https://theanuragshukla.github.io/ttt",
-                github: "https://github.com/theanuragshukla/ttt"
-            },
-            {
-                id:"4",
-                title: "15 Puzzle",
-                desc: "A simple puzzle game, I developed to kill my boredom.",
-                tools: ["HTML","CSS","JavaScript"],
-                img: "https://source.unsplash.com/random/?puzzle",
-                url: "https://theanuragshukla.github.io/15puzzle",
-                github: "https://github.com/theanuragshukla/15puzzle"
-            },
-            {
-                id:"5",
-                title: "Profile Card",
-                desc: "A profile card design to showcase your identity and all social handles at a single place, with a built-in contact form,through which anyone can communicate with you",
-                tools: ["HTML","CSS","JavaScript"],
-                img: "https://source.unsplash.com/random/?social+media",
-                url: "https://theanuragshukla.github.io/profilecard",
-                github: "https://github.com/theanuragshukla/profileCard"
-            },
-            {
-                id:"6",
-                title: "ChatNow",
-                desc: "A chat application(web) , created using NodeJS and Socket.io. This is a realtime messaging System, which uses text files to store and process chats. All the chat-data is encrypted using cryptoJS.",
-                tools: ["HTML","CSS","NodeJS","JavaScript","CryptoJS","Socket.io"],
-                img: "https://source.unsplash.com/random/?web+development",
-                url: "https://chatnowjs.herokuapp.com",
-                github: "https://github.com/theanuragshukla/chatnowjs"
-            },
-                                {
-                                        id:"6",
-                                        title:"LiveStreaming via BlockChain",
-                                        desc:"A LiveStreaming Platform built by using LivePeer API. This App allows users to start LiveStream and Share Camera and Screen with the World. This App communicates with Solidity SmartContract Deployed on Ethereum BlockChain using Web3JS.",
-                                        tools:["HTML","CSS","JavaScript","Solidity","Web3","NodeJS","Socket.io","Remix"],
-                                        img:"https://raw.githubusercontent.com/theanuragshukla/TheBizzzaire/main/19aec9c0-fa44-4e01-b65e-7bc9fbda5dbb.jpeg",
-                                        url:"https://livepeer.herokuapp.com",
-                                        github:"https://github.com/theanuragshukla/TheBizzzaire"
-                                }
+[
+   {
+      "id":"1",
+      "title":"The Movie DataBase",
+      "desc":"This is a movie database designed and developed using reactJS in its core. This App uses TMDB API to fetch and display the data.",
+      "tools":[
+         "react",
+         "react-router",
+         "styled-component"
+      ],
+      "img":"https://filmboard.mtu.edu/static/bucket/923aeb4a2b10f3e3cd793b3bde595df83c818cd5a4ea5d71486438f4b063c63ffa48fd6bc166ede140cd3d1f0a5e5c5db7388b63d1af96c9c69ebdce2c833acf.png",
+      "url":"https://theanuragshukla.github.io/tmdb",
+      "github":"https://github.com/theanuragshukla/tmdb"
+   },
+   {
+      "id":"2",
+      "title":"Music Player",
+      "desc":"A music player which is also a music library. It fetches the songs from GDrive using some cool GS tricks. Its my first ever project where I interacted with a server/DataBase. ",
+      "tools":[
+         "HTML",
+         "CSS",
+         "JavaScript",
+         "Jquery",
+         "GoogleAppsScript"
+      ],
+      "img":"https://source.unsplash.com/random/?music",
+      "url":"https://themusicplayer.herokuapp.com/",
+      "github":"https://github.com/theanuragshukla/music"
+   },
+   {
+      "id":"3",
+      "title":"Tic-Tac-Toe",
+      "desc":"A simple Tic-Tac-Toe tac toe game, where opponent bot plays like a 2-years old",
+      "tools":[
+         "HTML",
+         "CSS",
+         "JavaScript"
+      ],
+      "img":"https://images.unsplash.com/photo-1602632003094-0494b73b7c4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "url":"https://theanuragshukla.github.io/ttt",
+      "github":"https://github.com/theanuragshukla/ttt"
+   },
+   {
+      "id":"4",
+      "title":"15 Puzzle",
+      "desc":"A simple puzzle game, I developed to kill my boredom.",
+      "tools":[
+         "HTML",
+         "CSS",
+         "JavaScript"
+      ],
+      "img":"https://source.unsplash.com/random/?puzzle",
+      "url":"https://theanuragshukla.github.io/15puzzle",
+      "github":"https://github.com/theanuragshukla/15puzzle"
+   },
+   {
+      "id":"5",
+      "title":"Profile Card",
+      "desc":"A profile card design to showcase your identity and all social handles at a single place, with a built-in contact form,through which anyone can communicate with you",
+      "tools":[
+         "HTML",
+         "CSS",
+         "JavaScript"
+      ],
+      "img":"https://source.unsplash.com/random/?social+media",
+      "url":"https://theanuragshukla.github.io/profilecard",
+      "github":"https://github.com/theanuragshukla/profileCard"
+   },
+   {
+      "id":"6",
+      "title":"ChatNow",
+      "desc":"A chat application(web) , created using NodeJS and Socket.io. This is a realtime messaging System, which uses text files to store and process chats. All the chat-data is encrypted using cryptoJS.",
+      "tools":[
+         "HTML",
+         "CSS",
+         "NodeJS",
+         "JavaScript",
+         "CryptoJS",
+         "Socket.io"
+      ],
+      "img":"https://source.unsplash.com/random/?web+development",
+      "url":"https://chatnowjs.herokuapp.com",
+      "github":"https://github.com/theanuragshukla/chatnowjs"
+   },
+   {
+      "id":"6",
+      "title":"LiveStreaming via BlockChain",
+      "desc":"A LiveStreaming Platform built by using LivePeer API. This App allows users to start LiveStream and Share Camera and Screen with the World. This App communicates with Solidity SmartContract Deployed on Ethereum BlockChain using Web3JS.",
+      "tools":[
+         "HTML",
+         "CSS",
+         "JavaScript",
+         "Solidity",
+         "Web3",
+         "NodeJS",
+         "Socket.io",
+         "Remix"
+      ],
+      "img":"https://raw.githubusercontent.com/theanuragshukla/TheBizzzaire/main/19aec9c0-fa44-4e01-b65e-7bc9fbda5dbb.jpeg",
+      "url":"https://livepeer.herokuapp.com",
+      "github":"https://github.com/theanuragshukla/TheBizzzaire"
+   }
 ]
