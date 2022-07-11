@@ -1,9 +1,4 @@
 {
-    "programming":true,
-    "web":false,
-    "other":false,
-    "toShow":"programming",
-    "skills":{
         "programming":[
             {
                 "title":"JAVA",
