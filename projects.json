@@ -133,7 +133,7 @@
 		"desc":"This is a Node Module, supposed to be installed globally. It provides Chatting capabilities in the CLI itself. It can be used to Create and join Chatrooms from Terminal Itself without installing any other proprietery softwares.",
 		"tools":["NodeJS","Chalk","Socket.io","Socket.io-client"],
 		"img":"https://source.unsplash.com/random/?hacker+chat",
-		"url":"",
+		"url":"https://www.npmjs.com/package/repl.chat",
 		"github":"https://github.com/theanuragshukla/repl.chat"
 	}
 ]
