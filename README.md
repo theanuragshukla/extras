@@ -1,2 +1,2 @@
 # extras
-random files and sources files other projects
+random files and source files for other projects
