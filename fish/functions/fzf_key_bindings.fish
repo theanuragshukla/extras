@@ -1,0 +1,1 @@
+/home/anurag/.fzf/shell/key-bindings.fish
