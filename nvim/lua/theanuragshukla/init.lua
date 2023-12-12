@@ -1,8 +1,9 @@
 require("theanuragshukla.set")
 require("theanuragshukla.remap")
+require("theanuragshukla.packer")
 
 local augroup = vim.api.nvim_create_augroup
-local TheAnurahShuklaGroup = augroup('theanuragshukl', {})
+local TheAnuragShuklaGroup = augroup('theanuragshukla', {})
 
 local autocmd = vim.api.nvim_create_autocmd
 local yank_group = augroup('HighlightYank', {})
@@ -23,7 +24,7 @@ autocmd('TextYankPost', {
 })
 
 autocmd({"BufWritePre"}, {
-    group = ThePrimeagenGroup,
+    group = PreGroup,
     pattern = "*",
     command = [[%s/\s\+$//e]],
 })

@@ -58,11 +58,11 @@ return require('packer').startup(function(use)
             'nvim-lualine/lualine.nvim',
             requires = { 'nvim-tree/nvim-web-devicons', opt = true }
         }
+
         use {
             'prettier/vim-prettier',
             run = 'npm install',
-            ft = {'javascript', "python",  'typescript', 'css','scss', 'markdown', 'html'}
+            ft = {'javascript', 'typescript', 'css','scss', 'python', 'typescriptreact', 'javascriptreact'}
         }
-
     end)
 

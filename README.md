@@ -1,2 +1,5 @@
 # extras
-random files and source files for other projects
+This repository contains:
+- terminal configs
+- nvim config
+- JSONs for other projects
