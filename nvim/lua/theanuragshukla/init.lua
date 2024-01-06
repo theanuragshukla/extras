@@ -1,6 +1,6 @@
+require("theanuragshukla.packer")
 require("theanuragshukla.set")
 require("theanuragshukla.remap")
-require("theanuragshukla.packer")
 
 local augroup = vim.api.nvim_create_augroup
 local TheAnuragShuklaGroup = augroup('theanuragshukla', {})

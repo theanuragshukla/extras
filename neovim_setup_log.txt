@@ -1,0 +1,3 @@
+[ Sat Jan  6 15:54:07 UTC 2024 ] Neovim installation complete.
+[ Sat Jan  6 15:54:07 UTC 2024 ] Packer.nvim is already installed.
+[ Sat Jan  6 15:54:07 UTC 2024 ] Neovim setup completed.
