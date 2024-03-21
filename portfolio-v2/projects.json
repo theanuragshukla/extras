@@ -1,78 +1,95 @@
 [
     {
-        "id":"1",
-        "title":"The Movie DataBase",
-        "desc":"This is a movie database designed and developed using reactJS in its core. This App uses TMDB API to fetch and display the data.",
-        "tools":[
-            "react",
-            "react-router",
-            "styled-component"
-        ],
-        "img":"https://filmboard.mtu.edu/static/bucket/923aeb4a2b10f3e3cd793b3bde595df83c818cd5a4ea5d71486438f4b063c63ffa48fd6bc166ede140cd3d1f0a5e5c5db7388b63d1af96c9c69ebdce2c833acf.png",
-        "url":"https://theanuragshukla.github.io/tmdb",
-        "github":"https://github.com/theanuragshukla/tmdb"
+        "id": "1",
+        "title": "Auth-ms",
+        "desc": "An Authentication microservice written in Go. This tool allows developers to easily setup their own Auth server without writing any code at all. This tool is production ready and equipped with both HTTP and gRPC endpoints for easy integration into existing microservice architecture.",
+        "tools": ["Go", "gRPC", "Mux", "Postgres", "GORM"],
+        "img": "https://raw.githubusercontent.com/theanuragshukla/auth-microservice/master/logo.png",
+        "links": [
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/auth-microservice"
+            },
+            {
+                "name": "DockerHub",
+                "url": "https://hub.docker.com/r/theanuragshukla/auth-ms"
+            }
+        ]
     },
     {
-        "id":"3",
-        "title":"Dustbin Locator",
-        "desc":"Web App developed to help in locating and marking nearby Dustbins in the locality",
-        "tools":[
-            "JavaScript",
-            "PostgreSQL",
-            "NodeJS"
-        ],
-        "img":"https://source.unsplash.com/random/q=dustbin,locator",
-        "url":"https://binLocator.onrender.com",
-        "github":"https://github.com/theanuragshukla/binLocator-hackathon"
+        "id": "2",
+        "title": "Aicademia",
+        "desc": "AiCademia is an AI-based learning platform that provides personalized learning paths to students. It uses Machine Learning to analyze the student's performance and provide them with the best learning material. This app is developed using Jetpack Compose and Firebase.",
+        "tools": ["android", "jetpack-compose", "firebase", "gemini", "nestjs"],
+        "img": "https://source.unsplash.com/random/?machine+learning",
+        "links": [
+            {
+                "name": "Live",
+                "url": "https://aicademia.madhuratsal.tech"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/aicademia"
+            }
+        ]
     },
     {
-        "id":"4",
-        "title":"AdBid - BlockChain based AdSpace Bidding",
-        "desc":"This is a Platform which supports bidding for an AdSpace. This dapp is 100% decentralized and doesn't use any server for its operation. Deployed on Polygon Network and IPFS.",
-        "tools":[
-            "ReactJS",
-            "Solidity",
-            "IPFS"
-        ],
-        "img":"https://source.unsplash.com/random/?blockchain,bidding",
-        "url":"https://bafybeih5tisg3kbny67gwgrawfl5qhijigrtpapq42fnit6y5nvndcmape.ipfs.dweb.link/",
-        "github":"https://github.com/theanuragshukla/AdBid_ETHForAll"
+        "id": "3",
+        "title": "BinLocator",
+        "desc": "Web App developed to help in locating and marking nearby Dustbins in the locality. This app uses Geolocation API to get the user's location and then shows the nearby dustbins on the map. Users can also mark the dustbins which are not present on the map. This app is developed in 24 hours during a Hackathon",
+        "tools": ["HTML", "CSS", "JavaScript", "PostgreSQL", "NodeJS"],
+        "img": "https://source.unsplash.com/random/?q=dustbin",
+        "links": [
+            {
+                "name": "Live",
+                "url": "https://binLocator.onrender.com"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/binLocator-hackathon"
+            }
+        ]
+    },
+
+    {
+        "id": "4",
+        "title": "Omegle Clone",
+        "desc": "A ReactJS based webApp which provides video and text-based chatting with random strangers. It provides features for setting preferences, video and text chat, along with random matching algorithm",
+        "tools": ["NodeJS", "ReactJS", "PostgreSQL", "Socket.IO"],
+        "img": "https://source.unsplash.com/random/?video,calling,strangers",
+        "links": [
+            {
+                "name": "Live",
+                "url": "https://omegle-special-server.onrender.com/"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/omegle"
+            }
+        ]
     },
     {
-        "id":"5",
-        "title":"Omegle Clone",
-        "desc":"A ReactJS based webApp which provides video and text-based chatting with strangers",
-        "tools":[
-            "NodeJS",
-            "ReactJS",
-            "PostgreSQL",
-            "Socket.IO"
-        ],
-        "img":"https://source.unsplash.com/random/?video,calling,strangers",
-        "url":"https://omegle-special-server.onrender.com/",
-        "github":"https://github.com/theanuragshukla/omegle"
+        "id": "5",
+        "title": "AdBid - BlockChain based AdSpace Bidding",
+        "desc": "This is a Platform which supports bidding for an AdSpace. This dapp is 100% decentralized and doesn't use any server for its operation. Deployed on Polygon Network and IPFS. Anyone can create an AdSpace and start bidding for it. The highest bidder wins the AdSpace. All the transactions are done using SmartContract.",
+        "tools": ["ReactJS", "Solidity", "IPFS"],
+        "img": "https://source.unsplash.com/random/?blockchain,bidding",
+        "links": [
+            {
+                "name": "Live",
+                "url": "https://bafybeih5tisg3kbny67gwgrawfl5qhijigrtpapq42fnit6y5nvndcmape.ipfs.dweb.link/"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/AdBid_ETHForAll"
+            }
+        ]
     },
     {
-        "id":"6",
-        "title":"ChatNow",
-        "desc":"A chat application(web) , created using NodeJS and Socket.io. This is a realtime messaging System, which uses text files to store and process chats. All the chat-data is encrypted using cryptoJS.",
-        "tools":[
-            "HTML",
-            "CSS",
-            "NodeJS",
-            "JavaScript",
-            "CryptoJS",
-            "Socket.io"
-        ],
-        "img":"https://source.unsplash.com/random/?chatting",
-        "url":"https://chatnowjs.onrender.com",
-        "github":"https://github.com/theanuragshukla/chatnowjs"
-    },
-    {
-        "id":"7",
-        "title":"LiveStreaming via BlockChain",
-        "desc":"A LiveStreaming Platform built by using LivePeer API. This App allows users to start LiveStream and Share Camera and Screen with the World. This App communicates with Solidity SmartContract Deployed on Ethereum BlockChain using Web3JS.",
-        "tools":[
+        "id": "6",
+        "title": "LiveStreaming via BlockChain",
+        "desc": "A LiveStreaming Platform built by using LivePeer API. This App allows users to start LiveStream and Share Camera and Screen with the World. This App communicates with Solidity SmartContract Deployed on Ethereum BlockChain using Web3JS.",
+        "tools": [
             "HTML",
             "CSS",
             "JavaScript",
@@ -82,34 +99,16 @@
             "Socket.io",
             "Remix"
         ],
-        "img":"https://raw.githubusercontent.com/theanuragshukla/TheBizzzaire/main/19aec9c0-fa44-4e01-b65e-7bc9fbda5dbb.jpeg",
-        "url":"https://livepeer-4su2.onrender.com",
-        "github":"https://github.com/theanuragshukla/TheBizzzaire"
-    },
-    {
-        "id":"8",
-        "title":"VoiceChat webApp",
-        "desc":"WebApp which provide realtime VoiceChat capability to users, along with other features like Texting, custom rooms, etc.",
-        "tools":[
-            "NodeJS",
-            "Socket.io"
-        ],
-        "img":"https://source.unsplash.com/random/?voice+chat",
-        "url":"https://socketvoice.onrender.com",
-        "github":"https://github.com/theanuragshukla/VoiceChat"
-    },
-    {
-        "id":"9",
-        "title":"ML Algorithms Blog + Quizzes",
-        "desc":"A webPage to showcase some basic and most used Machine Learning Algorithms. This website also provides practice problems for mentioned algoriths. Solution Submitted can be examined by the teachers through admin page.",
-        "tools":[
-            "NodeJS",
-            "PostgreSQL",
-            "JWT",
-            "BCryptJS"
-        ],
-        "img":"https://source.unsplash.com/random/?machine+learning",
-        "url":"https://mlalgos.onrender.com",
-        "github":"https://github.com/theanuragshukla/ml-algos"
+        "img": "https://raw.githubusercontent.com/theanuragshukla/TheBizzzaire/main/19aec9c0-fa44-4e01-b65e-7bc9fbda5dbb.jpeg",
+        "links": [
+            {
+                "name": "LiveStream",
+                "url": "https://livepeer-4su2.onrender.com"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/theanuragshukla/TheBizzzaire"
+            }
+        ]
     }
 ]
