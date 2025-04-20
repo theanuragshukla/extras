@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ORU Phones",
+    "start": "May 2024",
+    "end": "ongoing",
+    "responsibilities": "Full Stack Developer Intern",
+    "achievements": [
+      "Leading Backend development for oruphones.com",
+      "Design systems and cross-platform services for a diverse array of users using technologies  \nsuch as NextJS, NodeJS, Python and Spring-boot framework",
+      "Lead the development of tools like, Cosmetic Defect Check (CDC) for mobile phones,  \nUser behaviour tracking, curated feed generation, and managing deployment using AWS and Github actions"
+    ]
+  },
+  {
+    "name": "The Development Studio",
+    "start": "Jan 2023",
+    "end": "Jan 2024",
+    "responsibilities": "Full Stack Developer Intern",
+    "achievements": [
+      "Built microservices for generating PDF from invoice payload",
+      "Built underlying SaaS for invoiceindia.com",
+      "Built web-app to facilitate managing customers, inventory, invoices, bills, etc. for companies."
+    ]
+  }
+]
